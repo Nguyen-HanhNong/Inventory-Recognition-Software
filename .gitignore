@@ -3,3 +3,11 @@ node_modules
 .env.local
 .env
 .DS_Store
+
+# images
+public/images
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.svg
