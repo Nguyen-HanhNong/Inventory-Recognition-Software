@@ -18,6 +18,10 @@
 [![Node Version](https://img.shields.io/static/v1?label=Node&message=^20.10.0&color=026e00&style=for-the-badge)](https://nodejs.org)
 [![npm Version](https://img.shields.io/static/v1?label=npm&message=^10.2.3&color=cb0000&style=for-the-badge)](https://nodejs.org)
 
+## Demo of the Application
+
+![Demo of Chatbot GIF](gif/demo.gif)
+
 ## About The Project 
 
 This project contains the code for an image recognition software, allowing for naming of common pantry items. The software uses the Google Cloud's Vertex API to match an image to a correspondsing commonly found pantry item. The software is built using React and NextJS, and is hosted on Vercel.
